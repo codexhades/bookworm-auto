@@ -1,0 +1,20 @@
+# local, machine-generated data - never commit
+pak_unpacked/
+dictionary.txt
+CooperBlack20/
+main_dec.bin
+shots/
+bridge/
+
+# build artifacts
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# editor/OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
